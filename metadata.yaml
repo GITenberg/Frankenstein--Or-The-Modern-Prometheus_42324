@@ -1,0 +1,143 @@
+_repo: Frankenstein--Or-The-Modern-Prometheus_42324
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shelley, Mary Wollstonecraft
+    aliases:
+    - Shelley, Mary Wollstonecraft Godwin
+    - Shelley, Mary W.
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '61'
+    url: http://www.gutenberg.org/2009/agents/61
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+description: "Frankenstein; or, The Modern Prometheus is a novel written by English\
+  \ author Mary Shelley (1797–1851) that tells the story of Victor Frankenstein, a\
+  \ young scientist who creates a grotesque but sapient creature in an unorthodox\
+  \ scientific experiment. Shelley started writing the story when she was 18, and\
+  \ the first edition of the novel was published anonymously in London on 1 January\
+  \ 1818, when she was 20. Her name first appeared on the second edition, published\
+  \ in France in 1823.\nShelley travelled through Europe in 1814, journeying along\
+  \ the river Rhine in Germany with a stop in Gernsheim, which is 17 kilometres (11\
+  \ mi) away from Frankenstein Castle, where, two centuries before, an alchemist was\
+  \ engaged in experiments. Later, she travelled in the region of Geneva (Switzerland)—where\
+  \ much of the story takes place—and the topic of galvanism and other similar occult\
+  \ ideas were themes of conversation among her companions, particularly her lover\
+  \ and future husband, Percy Shelley. Mary, Percy and Lord Byron decided to have\
+  \ a competition to see who could write the best horror story. After thinking for\
+  \ days, Shelley dreamt about a scientist who created life and was horrified by what\
+  \ he had made; her dream later evolved into the novel's story.\nFrankenstein is\
+  \ infused with elements of the Gothic novel and the Romantic movement. At the same\
+  \ time, it is an early example of science fiction. Brian Aldiss has argued that\
+  \ it should be considered the first true science fiction story because, in contrast\
+  \ to previous stories with fantastical elements resembling those of later science\
+  \ fiction, the central character \"makes a deliberate decision\" and \"turns to\
+  \ modern experiments in the laboratory\" to achieve fantastic results. It has had\
+  \ a considerable influence in literature and popular culture and spawned a complete\
+  \ genre of horror stories, films and plays.\nSince the novel's publication, the\
+  \ name \"Frankenstein\" has often been used to refer to the monster itself. This\
+  \ usage is sometimes considered erroneous, but usage commentators regard it as well-established\
+  \ and acceptable. In the novel, the monster is identified by words such as \"creature\"\
+  , \"monster\", \"demon\", \"wretch\", \"abortion\", \"fiend\" and \"it\". Speaking\
+  \ to Victor Frankenstein, the monster says \"I ought to be thy Adam, but I am rather\
+  \ the fallen angel\" (which ties to Lucifer in Paradise Lost, which the monster\
+  \ reads, and which relates to the disobedience of Prometheus in the book's subtitle).\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Precursors of Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2013-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42324'
+  wikidata: Q150827
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frankenstein, Victor (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Frankenstein''s monster (Fictitious character) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Monsters -- Fiction'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'Horror tales'
+title: Frankenstein; Or, The Modern Prometheus
+url: http://www.gutenberg.org/ebooks/42324
+wikipedia:
+- https://fi.wikipedia.org/wiki/Frankenstein
+- https://eo.wikipedia.org/wiki/Franken%C5%9Dtejno
+- https://pa.wikipedia.org/wiki/%E0%A8%AB%E0%A8%B0%E0%A9%88%E0%A8%82%E0%A8%95%E0%A8%A8%E0%A8%B8%E0%A8%9F%E0%A8%BE%E0%A8%87%E0%A8%A8
+- https://ms.wikipedia.org/wiki/Frankenstein
+- https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%DA%A9%D9%86%D8%B4%D8%AA%D8%A7%DB%8C%D9%86
+- https://ky.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD
+- https://vi.wikipedia.org/wiki/Frankenstein
+- https://en.wikisource.org/wiki/Frankenstein,_or_the_Modern_Prometheus
+- https://hy.wikipedia.org/wiki/%D5%96%D6%80%D5%A1%D5%B6%D5%AF%D5%A5%D5%B6%D5%B7%D5%A9%D5%A5%D5%B5%D5%B6_%D5%AF%D5%A1%D5%B4_%D5%AA%D5%A1%D5%B4%D5%A1%D5%B6%D5%A1%D5%AF%D5%A1%D5%AF%D5%AB%D6%81_%D5%8A%D6%80%D5%B8%D5%B4%D5%A5%D5%A9%D6%87%D5%BD
+- https://ku.wikipedia.org/wiki/Frankenstein
+- https://zh-yue.wikipedia.org/wiki/%E7%A7%91%E5%AD%B8%E6%80%AA%E4%BA%BA
+- https://el.wikipedia.org/wiki/%CE%A6%CF%81%CE%B1%CE%BD%CE%BA%CE%B5%CE%BD%CF%83%CF%84%CE%AC%CE%B9%CE%BD_%CE%AE_%CE%BF_%CE%A3%CF%8D%CE%B3%CF%87%CF%81%CE%BF%CE%BD%CE%BF%CF%82_%CE%A0%CF%81%CE%BF%CE%BC%CE%B7%CE%B8%CE%AD%CE%B1%CF%82
+- https://az.wikipedia.org/wiki/Franken%C5%9Fteyn
+- https://fr.wikisource.org/wiki/Frankenstein
+- https://sv.wikipedia.org/wiki/Frankenstein
+- https://gl.wikipedia.org/wiki/Frankenstein_ou_o_moderno_Prometeo
+- https://he.wikiquote.org/wiki/%D7%A4%D7%A8%D7%A0%D7%A7%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F
+- https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B1%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3
+- https://pt.wikipedia.org/wiki/Frankenstein
+- https://ml.wikipedia.org/wiki/%E0%B4%AB%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B5%BB%E0%B4%B8%E0%B5%8D%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%80%E0%B5%BB
+- https://scn.wikipedia.org/wiki/Frankenstein_(rumanzu)
+- https://ast.wikipedia.org/wiki/Frankenstein_o%27l_modernu_Prometeo
+- https://war.wikipedia.org/wiki/Frankenstein
+- https://es.wikipedia.org/wiki/Frankenstein_o_el_moderno_Prometeo
+- https://sk.wikipedia.org/wiki/Frankenstein
+- https://sco.wikipedia.org/wiki/Frankenstein
+- https://en.wikipedia.org/wiki/Frankenstein
+- https://hu.wikiquote.org/wiki/Frankenstein
+- https://ga.wikipedia.org/wiki/Frankenstein
+- https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%B8%D0%BB%D0%B8_%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B5%D0%B9
+- https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%A8_(%E0%A6%89%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8)
+- https://ro.wikipedia.org/wiki/Frankenstein_(roman)
+- https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%EC%BC%84%EC%8A%88%ED%83%80%EC%9D%B8
+- https://et.wikipedia.org/wiki/Frankenstein
+- https://fr.wikipedia.org/wiki/Frankenstein_ou_le_Prom%C3%A9th%C3%A9e_moderne
+- https://sh.wikipedia.org/wiki/Frankenstein,_or_The_Modern_Prometeus
+- https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%B8%E6%80%AA%E4%BA%BA
+- https://bs.wikipedia.org/wiki/Frankenstein_ili_moderni_Prometej
+- https://no.wikipedia.org/wiki/Frankenstein
+- https://en.wikiquote.org/wiki/Frankenstein_(novel)
+- https://pl.wikipedia.org/wiki/Frankenstein
+- https://da.wikipedia.org/wiki/Frankenstein
+- https://simple.wikipedia.org/wiki/Frankenstein
+- https://te.wikipedia.org/wiki/%E0%B0%AB%E0%B1%8D%E0%B0%B0%E0%B0%BE%E0%B0%82%E0%B0%95%E0%B1%86%E0%B0%A8%E0%B1%8D%E2%80%8C%E0%B0%B8%E0%B1%8D%E0%B0%9F%E0%B1%86%E0%B0%AF%E0%B0%BF%E0%B0%A8%E0%B1%8D
+- https://hi.wikipedia.org/wiki/%E0%A4%AB%E0%A5%8D%E0%A4%B0%E0%A5%88%E0%A4%82%E0%A4%95%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%A8
+- https://kn.wikipedia.org/wiki/%E0%B2%AB%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%82%E0%B2%95%E0%B3%86%E0%B2%A8%E0%B3%8D%E2%80%8C%E0%B2%B8%E0%B3%8D%E0%B2%9F%E0%B3%88%E0%B2%A8%E0%B3%8D%E2%80%8C
+- https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9F%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%99%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%99%E0%B9%8C
+- https://nl.wikipedia.org/wiki/Frankenstein_(roman)
+- https://hu.wikipedia.org/wiki/Frankenstein
+- https://is.wikipedia.org/wiki/Frankenstein
+- https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AF%88%E0%AE%A9%E0%AF%8D_(%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AE%AE%E0%AF%8D)
+- https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D9%86%D9%83%D9%86%D8%B4%D8%AA%D8%A7%D9%8A%D9%86
+- https://lb.wikipedia.org/wiki/Frankenstein
+- https://id.wikipedia.org/wiki/Frankenstein_(novel)
+- https://sl.wikipedia.org/wiki/Frankenstein
+- https://eu.wikipedia.org/wiki/Frankenstein
+- https://oc.wikipedia.org/wiki/Frankenstein_o_lo_Promet%C3%A8u_mod%C3%A8rne
+- https://de.wikipedia.org/wiki/Frankenstein_(Roman)
+- https://lt.wikipedia.org/wiki/Franken%C5%A1teinas_(knyga)
+- https://uk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%B0%D0%B1%D0%BE_%D0%A1%D1%83%D1%87%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B5%D0%B9
+- https://lv.wikipedia.org/wiki/Franken%C5%A1teins
+- https://cs.wikipedia.org/wiki/Frankenstein
+- https://bg.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%89%D0%B0%D0%B9%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://it.wikipedia.org/wiki/Frankenstein
+- https://la.wikipedia.org/wiki/Frankenstein
+- https://hr.wikipedia.org/wiki/Frankenstein_ili_moderni_Prometej
+- https://ca.wikipedia.org/wiki/Frankenstein
+- https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%A0%D7%A7%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F
+- https://tr.wikipedia.org/wiki/Frankenstein
+- https://sr.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D1%98%D0%BD_%D0%B8%D0%BB%D0%B8_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8_%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D0%B5%D1%98
+- https://es.wikiquote.org/wiki/Frankenstein_o_el_moderno_Prometeo
