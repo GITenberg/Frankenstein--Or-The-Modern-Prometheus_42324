@@ -46,6 +46,8 @@ description: "Frankenstein; or, The Modern Prometheus is a novel written by Engl
   \ the fallen angel\" (which ties to Lucifer in Paradise Lost, which the monster\
   \ reads, and which relates to the disobedience of Prometheus in the book's subtitle).\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42324#Frankenstein--Or-The-Modern-Prometheus
 gutenberg_bookshelf:
 - Precursors of Science Fiction
 - Science Fiction by Women
